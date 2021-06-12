@@ -1,2 +1,4 @@
 # Computer_guesses_the_number
-Game "Computer guesses the number"
+Консольная игра, в которой компьютер отгадывает число от 1 до 100 за семь попыток
+
+
